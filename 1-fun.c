@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include"fun.h"
 void mul_num(int num1 , int num2)
 {
 	int mul= num1 * num2;
